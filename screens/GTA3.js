@@ -7,7 +7,7 @@ export default class GTA3Screen extends Component {
         super();
         this.state = {
             text: '',
-            atalho: '',
+            atalho: [],
         }
     }
     render() {
